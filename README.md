@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 💼 Data Science Experience:
 
-Python 🐍
-SQL 📂
-Statistics (Scipy, Numpy, Pandas) 📈
-Data Visualization (Matplotlib, Seaborn, Plotly) 📊
-Machine Learning (Scikit-learn, Pytorch, Tensorflow) 🤖
+* Python 🐍
+* SQL 📂
+* Statistics (Scipy, Numpy, Pandas) 📈
+* Data Visualization (Matplotlib, Seaborn, Plotly) 📊
+* Machine Learning (Scikit-learn, Pytorch, Tensorflow) 🤖
 
 💼 Web Development Experience:
 
-Front-end (Javascript, Typescript, React.js) 🌐
-Back-end (Flask, Django, Node.js) ⚙️
+* Front-end (Javascript, Typescript, React.js) 🌐
+* Back-end (Flask, Django, Node.js) ⚙️
 
 📚 Always seeking new challenges and continuous learning!
