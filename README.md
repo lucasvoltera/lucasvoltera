@@ -6,8 +6,6 @@
 
 👨‍🏫 Taught 3 editions of the Data Analysis with Python course at the university, sharing education and knowledge in the field.
 
-🚀 Active in programming competitions and hackathons, enhancing my ability to solve problems in a creative and innovative way.
-
 💼 Data Science Experience:
 
 * Python 🐍
