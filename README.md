@@ -1,22 +1,9 @@
 ### Hi there 👋
 
-🎓 Graduated in Computer Science from UNESP (2020-2023)
+🎓 Graduated in Computer Science from UNESP
 
-🔬 Researcher with 3 years of experience in the field of Data Science and Machine Learning
+💻 4 years honing programming skills | 🧠 3 years as an Artificial Intelligence Researcher
 
-👨‍🏫 Taught 3 editions of the Data Analysis with Python course at the university, sharing education and knowledge in the field.
-
-💼 Data Science Experience:
-
-* Python 🐍
-* SQL 📂
-* Statistics (Scipy, Numpy, Pandas) 📈
-* Data Visualization (Matplotlib, Seaborn, Plotly) 📊
-* Machine Learning (Scikit-learn, Pytorch, Tensorflow) 🤖
-
-💼 Web Development Experience:
-
-* Front-end (Javascript, Typescript, React.js) 🌐
-* Back-end (Flask, Django, Node.js) ⚙️
+🚀 Full Stack Developer | 🌐 Front-end Technologies: Javascript, Typescript, React.js | 🔧 Back-end: Node.js, Python, Flask, Django
 
 📚 Always seeking new challenges and continuous learning!
