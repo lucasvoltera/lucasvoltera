@@ -6,15 +6,15 @@
 
 💼 Experiência em Ciência de Dados:
 
- Python 🐍
- SQL 📂 
- Estatística (Scipy, Numpy, Pandas) 📈 
- Visualização de Dados (Matplotlib, Seaborn, Plotly) 📊
- Aprendizado de Máquina (Scikit-learn, Pytorch, Tensorflow) 🤖
+ * Python
+ * SQL
+ * Estatística (Scipy, Numpy, Pandas)
+ * Visualização de Dados (Matplotlib, Seaborn, Plotly)
+ * Aprendizado de Máquina (Scikit-learn, Pytorch, Tensorflow)
 
 💼 Experiência em Desenvolvimento Web:
 
- Front-end (Javascript, Typescript, React.js) 🌐
- Back-end (Flask, Django, Node.js) ⚙️
+ * Front-end (Javascript, Typescript, React.js)
+ * Back-end (Flask, Django, Node.js)
 
 📚 Sempre em busca de novos desafios e aprendizado contínuo!
