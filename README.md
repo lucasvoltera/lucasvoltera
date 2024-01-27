@@ -1,9 +1,20 @@
 ### Hi there 👋
 
-🎓 Graduated in Computer Science from UNESP
+🎓 Graduado em Ciência da Computação pela UNESP
 
-💻 4 years honing programming skills | 🧠 3 years as an Artificial Intelligence Researcher
+🔬 Pesquisador com 3 anos de experiência na área de Ciência de Dados e Aprendizado de Máquina
 
-🚀 Full Stack Developer | 🌐 Front-end Technologies: Javascript, Typescript, React.js | 🔧 Back-end: Node.js, Python, Flask, Django
+💼 Experiência em Ciência de Dados:
 
-📚 Always seeking new challenges and continuous learning!
+ Python 🐍
+ SQL 📂 
+ Estatística (Scipy, Numpy, Pandas) 📈 
+ Visualização de Dados (Matplotlib, Seaborn, Plotly) 📊
+ Aprendizado de Máquina (Scikit-learn, Pytorch, Tensorflow) 🤖
+
+💼 Experiência em Desenvolvimento Web:
+
+ Front-end (Javascript, Typescript, React.js) 🌐
+ Back-end (Flask, Django, Node.js) ⚙️
+
+📚 Sempre em busca de novos desafios e aprendizado contínuo!
