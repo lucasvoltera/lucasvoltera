@@ -2,19 +2,23 @@
 
 🎓 Graduado em Ciência da Computação pela UNESP
 
-🔬 Pesquisador com 3 anos de experiência na área de Ciência de Dados e Aprendizado de Máquina
+💻 Experiência nas áreas de Ciência de Dados e Engenharia de Software
 
-💼 Experiência em Ciência de Dados:
+💼 Skills em Ciência de Dados:
 
- * Python
- * SQL
- * Estatística (Scipy, Numpy, Pandas)
- * Visualização de Dados (Matplotlib, Seaborn, Plotly)
- * Aprendizado de Máquina (Scikit-learn, Pytorch, Tensorflow)
+* Linguagens - Python, SQL
+* Estatística - Pandas, Scipy, Numpy
+* Visualização de Dados - Matplotlib, Seaborn, Plotly, PowerBI
+* Engenharia de Dados - Spark, Airflow
+* Aprendizado de Máquina - Tensorflow, Pytorch, Scikit-learn, MLflow
 
-💼 Experiência em Desenvolvimento Web:
 
- * Front-end (Javascript, Typescript, React.js)
- * Back-end (Flask, Django, Node.js)
+💼 Skills em Engenharia de Software:
+
+* Linguagens - Javascript, Typescript, Python, Java
+* Frontend - HTML, CSS, React
+* Backend - Flask, Django, Node.js, Spring Boot
+* DevOps - AWS, Docker, Git flow, CI/CD, Kubernetes
+
 
 📚 Sempre em busca de novos desafios e aprendizado contínuo!
